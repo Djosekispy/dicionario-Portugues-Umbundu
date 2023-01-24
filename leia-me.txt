@@ -1,0 +1,4 @@
+Para executar sem problemas
+1 - Execute u arquivo do banco de dados
+2 - Ligue o seu servidor (Localhost)
+3 - Acesse a página pelo seu navegador
